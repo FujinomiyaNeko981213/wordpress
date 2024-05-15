@@ -28,7 +28,7 @@ define( 'DB_USER', 'wordpressuser' );
 define( 'DB_PASSWORD', 'ComplexPassword123!' );
 
 /** 数据库主机 */
-define( 'DB_HOST', 'localhost:3306' );
+define( 'DB_HOST', '127.0.0.1' );
 
 /** 创建表时使用的数据库字符集。 */
 define( 'DB_CHARSET', 'utf8' );
